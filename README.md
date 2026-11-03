@@ -1,15 +1,15 @@
-﻿<div align="center">
+<div align="center">
 
-# 👋 Hey, I'm SOKUN DENy
+# 👋 Hey, I'm SOKUN DENY
 
-### 🎓 Fourth-year student at CADT · 💻 Web & mobile development · 🧠 RAG exploration
+### 🎓 Fourth-year student at CADT · 💻 Web & mobile development · 🎮 Game development
 
-**Building to learn. Adapting to new technologies. Solving problems.**
+**Building to learn. Exploring new things. Solving problems.**
 
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#-tech-stack)
 [![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](#-tech-stack)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](#-tech-stack)
-[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](#-tech-stack)
+[![Unity](https://img.shields.io/badge/Unity-222222?style=for-the-badge&logo=unity&logoColor=white)](#-tech-stack)
 
 [About me](#-about-me) · [Tech stack](#-tech-stack) · [What drives me](#-what-drives-me) · [Connect](#-lets-connect)
 
@@ -19,15 +19,15 @@
 
 ## 🧑‍💻 About me
 
-I'm **SOKUN DENy** ([@sokundeny](https://github.com/sokundeny)), a **fourth-year student at CADT**. I enjoy building things as a way to learn, explore new technologies, and solve problems.
+I'm **SOKUN DENY** ([@sokundeny](https://github.com/sokundeny)), a **fourth-year student at CADT**. I enjoy building things as a way to learn, explore new things, and solve problems.
 
-My interests span **web applications**, **mobile development**, and **retrieval-augmented generation (RAG)**. I like taking what I learn and putting it into practice through projects.
+My interests span **web applications**, **mobile development**, and **game development with Unity**. I like taking what I learn and putting it into practice through projects.
 
 - 🎓 Currently in my **fourth year at CADT**.
 - ⚛️ Building web interfaces with **React** and **Tailwind CSS**.
 - ⚙️ Working with **NestJS** and **Express** for backend development.
 - 📱 Building mobile applications with **Flutter**.
-- 🧠 Exploring **LangChain for RAG**.
+- 🎮 Exploring game development with **Unity**.
 - 🤝 Open to collaborating, sharing ideas, and learning with other developers.
 - 😄 **Pronouns:** He/Him
 
@@ -47,20 +47,19 @@ My interests span **web applications**, **mobile development**, and **retrieval-
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-### 🧠 AI & retrieval
+### 🎮 Game development
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![RAG](https://img.shields.io/badge/Retrieval_Augmented_Generation-8B5CF6?style=for-the-badge)
+![Unity](https://img.shields.io/badge/Unity-222222?style=for-the-badge&logo=unity&logoColor=white)
 
 ## 🚀 What drives me
 
 - **Learning by building:** turning new concepts into something I can use and improve.
-- **Adapting to new technologies:** exploring unfamiliar tools and finding out how they fit into a project.
+- **Exploring new things:** trying new ideas, tools, and ways to build.
 - **Solving problems:** using development to work through challenges and keep learning along the way.
 
 ## 💻 Explore my work
 
-My repositories are where I put ideas into practice across web, mobile, and RAG development. Take a look around, and reach out if something sparks an idea for collaboration.
+My repositories are where I put ideas into practice across web, mobile, and game development. Take a look around, and reach out if something sparks an idea for collaboration.
 
 [![Explore my repositories](https://img.shields.io/badge/Explore_my_repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sokundeny?tab=repositories)
 

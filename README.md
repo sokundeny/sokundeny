@@ -24,8 +24,8 @@ I'm **SOKUN DENY** ([@sokundeny](https://github.com/sokundeny)), a **fourth-year
 My interests span **web applications**, **mobile development**, and **game development with Unity**. I like taking what I learn and putting it into practice through projects.
 
 - 🎓 Currently in my **fourth year at CADT**.
-- ⚛️ Building web interfaces with **React** and **Tailwind CSS**.
-- ⚙️ Working with **NestJS** and **Express** for backend development.
+- ⚛️ Building web interfaces with **React**, **Vue**, and **Tailwind CSS**.
+- ⚙️ Working with **NestJS**, **Express**, and **FastAPI** for backend development.
 - 📱 Building mobile applications with **Flutter**.
 - 🎮 Exploring game development with **Unity**.
 - 🤝 Open to collaborating, sharing ideas, and learning with other developers.
@@ -36,12 +36,14 @@ My interests span **web applications**, **mobile development**, and **game devel
 ### 🎨 Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue](https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### ⚙️ Backend
 
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-181717?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### 📱 Mobile
 
